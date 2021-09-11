@@ -1,6 +1,6 @@
 import requests
 def weather(city):
-    API_key = "6d7df9a897613928d3c4c102d99cbea2"
+    API_key = "your api key"
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
     
     Final_url = base_url + "appid=" + API_key + "&q=" + city 
