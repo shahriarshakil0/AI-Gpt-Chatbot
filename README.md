@@ -1,5 +1,5 @@
 ## create virtual environment
-*Download Gpt model & cache dir from drive link.
+#Download Gpt model & cache dir from drive link.
 ```
 python3 -m venv venv
 ```
